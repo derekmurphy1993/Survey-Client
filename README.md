@@ -18,9 +18,9 @@ viewable.
 ![Poll-ar Bear](https://i.imgur.com/7gtHcOm.png)
 
 #### Links to Back End
-[Back End Repo](https://github.com/SEI-06/Survey-API)
+[Back End Repo](https://derekmurphy1993.github.io/Survey-Client/)
 
-[Deployed API](https://morning-reef-04926.herokuapp.com)
+[Deployed API](https://agile-retreat-78337.herokuapp.com)
 
 #### Technologies Used
 1. Express
