@@ -13,12 +13,12 @@ a survey, a user can choose out of the available surveys. Each survey is multipl
 choice, so the user can select one answer, and hit submit, thus making the results
 viewable.
 
-[Try Poll-ar Bear Out!](https://sei-06.github.io/Survey-Client/)
+[Try Poll-ar Bear Out!](https://derekmurphy1993.github.io/Survey-Client/)
 
 ![Poll-ar Bear](https://i.imgur.com/7gtHcOm.png)
 
 #### Links to Back End
-[Back End Repo](https://derekmurphy1993.github.io/Survey-Client/)
+[Back End Repo](https://derekmurphy1993.github.io/Survey-API/)
 
 [Deployed API](https://agile-retreat-78337.herokuapp.com)
 
